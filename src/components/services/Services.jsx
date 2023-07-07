@@ -123,7 +123,7 @@ const toggleTab = (index) => {
                 </div>
             </div>
 
-            <div className="services__content">
+            {/* <div className="services__content">
                 <div>
                     <i className="uil uil-edit services__icon"></i>
                     <h3 className="services__title">
@@ -175,7 +175,7 @@ const toggleTab = (index) => {
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div> */}
         </div>
     </section>
   )
