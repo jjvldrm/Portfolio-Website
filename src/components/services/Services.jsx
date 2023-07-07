@@ -5,7 +5,7 @@ const Services = () => {
 const [toggleState, setToggleState] = useState(0);
 const toggleTab = (index) => {
     setToggleState(index);
-}
+};
 
   return (
     <section className="services section" id="services">
