@@ -74,7 +74,7 @@ const Qualification = () => {
                             </div>
                         </div>
 
-                        <div className="qualification__data">
+                        {/* <div className="qualification__data">
                             <div></div>
 
                             <div>
@@ -89,7 +89,7 @@ const Qualification = () => {
                                     <i className="uil uil--calendar-alt"></i>2009 - 2014
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
 
                     <div className={toggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content"}>
