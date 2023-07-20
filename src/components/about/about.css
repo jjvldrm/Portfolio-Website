@@ -9,6 +9,7 @@
     /* height: 350px; */
     border-radius: 1.5rem;
     justify-self: center;
+    border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 .about__info {
